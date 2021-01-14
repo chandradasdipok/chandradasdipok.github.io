@@ -1,2 +1,2 @@
 - Know [Dipok](who.html)
-- [List](pub.html) of publications
+- [List](pub.md) of publications
