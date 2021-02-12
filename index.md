@@ -10,6 +10,6 @@
   </ul>
 <h2> Mobile Applications </h2>
   <ul>
-      <li><i><b>D2D Follow Corona</i></b> is a door-to-door data collection concept related with COVID-19. Click <a href="https://www.dropbox.com/s/we1nb2c5umb9bz8/app-release.apk?dl=0">here</a> to download the app</li>
+      <li><i><b>D2D Follow Corona</i></b> is a door-to-door data collection concept related with COVID-19. Click <a href="https://github.com/cd-dpk/d2dfc/blob/alpha/app/release/app-release.apk?raw=true">here</a> to download the app</li>
       <li><i><b>Transaction Book</i></b> is a digital daily transaction record-keeping book. <a href="https://play.google.com/store/apps/details?id=org.dpk.pa">Download</a> app in Play Store</li>
   </ul>
